@@ -1,0 +1,1 @@
+2024/03/17 14:32:40 [error] 11660#18784: *1 CreateFile() "C:\Masters-Doc\ASU\courses\CSE546-Cloud-Computing\CC_project\CSE546_project_app_tier\app_tier\nginx-1.25.4\nginx-1.25.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
